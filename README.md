@@ -1,0 +1,1 @@
+# HappyStay-Service_Registry
